@@ -1,2 +1,2 @@
 # GameProjectInfiniteAmmo
-Screenshots // Works // Infinite Ammo
+Screenshots. // Works. // Infinite Ammo.
