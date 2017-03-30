@@ -7,4 +7,4 @@
 <img src="https://github.com/apark6931/GameProject_InfiniteAmmo/blob/master/Screenshot_Active1.png" width = "250" height = "200">
 <img src="https://github.com/apark6931/GameProject_InfiniteAmmo/blob/master/Screenshot%20PC_1.png" width = "250" height = "200">
 
-<head> established. width = "250" height = "200" </head>
+<head> established.</head>
